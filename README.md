@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, sou o Elias, tenho 12 anos. Contate-me no discord: sailez#1412. 👋
 
 <!--
 **EliCodesBR/EliCodesBR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
