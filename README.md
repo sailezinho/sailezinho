@@ -14,9 +14,9 @@
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/EliCodesBR](https://github.com/EliCodesBR)
 
-- 📄 Conheça minhas experiências [Java, Python, GML Language.](Java, Python, GML Language.)
+- 📄 Conheça minhas experiências (Java, Python, GML Language.)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Meu canal do youtube</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/elicodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="elicodes" height="30" width="40" /></a>
 </p>
