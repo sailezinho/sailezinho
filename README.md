@@ -21,10 +21,6 @@
 </div>
 <br />
 
-<a href="https://youtube.com/c/elicodesbr" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/youtube/youtube-ar21.svg" alt="discord-badge"/>
-</a>
-
 <a href="https://discord.com/users/396309357064749058" target="_blank">
   <img src="https://seeklogo.com/images/D/discord-logo-855AEC93F1-seeklogo.com.png" alt="discord-badge"/>
 </a>
