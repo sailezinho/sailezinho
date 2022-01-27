@@ -23,8 +23,3 @@
 </div>
 
 <br>
-	<p align="center">
-		<br>
-		<img src="https://github.com/EliCodesBR/github-stats-transparent/blob/output/generated/overview.svg" height="225px">
-		<img src="https://github.com/EliCodesBR/github-stats-transparent/blob/output/generated/languages.svg" height="225px">
-	</p>
