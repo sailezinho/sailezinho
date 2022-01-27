@@ -34,7 +34,7 @@
 <br>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eokasta&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sailezinho"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sailezinho&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sailezinho"/>
 </p>
 
 <br></br>
@@ -42,7 +42,7 @@
 <br></br>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eokasta&show_icons=true&locale=en&theme=tokyonight" alt="sailezinho" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sailezinho&show_icons=true&locale=en&theme=tokyonight" alt="sailezinho" />
 </p>
 
 <br>
