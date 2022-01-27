@@ -1,25 +1,25 @@
 <div>
   <img align="right" width="300" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" alt="avatar">
   <h1>About me</h1>
-  <p align="center">
+  <p align="left">
      My name is Elias, I am 13 years-old and 
     I am <strong>beginner developer</strong>, Java enthusiast, 
      I love high-level programming languages.
   </p>
-  <p align="center">
+  <p align="left">
     :maple_leaf:
     <strong>Language:</strong> Java, Lua.
   </p>
-  <p align="center">
+  <p align="left">
     :leaves:
     <strong>Tools:</strong> Visual Studio Code, IntelliJ, Git, Github and Sublime.
   </p>
-  <p align="center">
+  <p align="left">
     :globe_with_meridians:
     <strong>Portfolio:</strong> Coming soon.
   </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=elicodesbr&label=Profile%20views&color=0e75b6&style=flat" alt="elicodesbr" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=elicodesbr&label=Profile%20views&color=0e75b6&style=flat" alt="elicodesbr" /> </p>
 </div>
 
 <br>
